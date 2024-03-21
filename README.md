@@ -8,3 +8,5 @@
   * 모델링: Logistic Regression, Naive Bayes, KNN, MLP, LSTM, CNN, BERT, KoBERT, GPT-2
 * 텍스트 요약
   * Textrank, lexrank
+
+![image](https://github.com/jaieun-l/textmining_proj/assets/65056046/dc919244-f86e-4f4c-90e6-193282f75908)
